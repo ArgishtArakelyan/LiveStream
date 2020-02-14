@@ -792,7 +792,7 @@ a {
     margin-right: 8px; }
 
 .checkbox input[type="checkbox"] + .label-text:hover:before {
-  color: red; }
+  color: #9e0005; }
 
 .checkbox input[type="checkbox"] {
   display: none; }
@@ -818,7 +818,7 @@ a {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f00c";
-  color: red; }
+  color: #9e0005; }
 
 .my_video_1-dimensions {
   width: 100% !important;
